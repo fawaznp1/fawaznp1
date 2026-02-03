@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Fawaz N P!<br>🔹 Full-Stack Developer | React Specialist | Tech Enthusiast<br><br>Passionate about building scalable and interactive web applications using React, JavaScript, and MongoDB. I love solving problems, optimizing performance, and crafting seamless user experiences.<br><br>🔧 Tech Stack: React.js, Node.js, Express, MongoDB, SQL, Bootstrap, Tailwind CSS<br>📌 Projects: Auto Horizon (Blog), Freelance360, Marwaarts.in<br>💡 Interests: Web development, Open Source<br><br>📫 Let's connect! <br><br>
+Hi, I'm Fawaz N P!<br>🔹 Full-Stack Developer | React Specialist | Tech Enthusiast<br><br>Passionate about building scalable and interactive web applications using React, JavaScript. I love solving problems, optimizing performance, and crafting seamless user experiences.<br><br>🔧 Tech Stack: React.js, Node.js, Express, MongoDB, SQL, Bootstrap, Tailwind CSS<br>📌 Projects: Auto Horizon (Blog), Freelance360, Marwaarts.in<br>💡 Interests: Web development, Open Source<br><br>📫 Let's connect! <br><br>
 
 
 ## 🌐 Socials:
